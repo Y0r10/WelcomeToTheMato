@@ -22,7 +22,7 @@ body {
     margin: 8px;
     font-size: 1.6em;
     padding: 4px;
-    background-color: rgba(250, 250, 250, .2);
+    background-color: rgba(141, 243, 243, 0.562);
     width: fit-content;
 }
 
@@ -71,4 +71,8 @@ button:active:after {
     margin: 0;
     opacity: 1;
     transition: 0s
+  }
+
+  h1{
+    color: cornflowerblue;
   }
